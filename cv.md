@@ -1,18 +1,56 @@
-# Julia Divina
-> means of communication
-* +48471089546
-* mail: julia.dzivina@gmail.com
-> About me:
-< I am a motivated individual with a strong desire to learn and grow. I prioritize personal and professional development, constantly seeking new knowledge and skills. Although I may have limited work experience, I am adaptable, determined, and resourceful. I excel in communication and teamwork, and I possess excellent organizational and time management abilities. I am eager to contribute my enthusiasm and skills to the success of an organization. >
-< My skills include:
-1. Communication: Strong oral and written communication skills.
-2. Teamwork: Effective collaboration and idea sharing.
-3. Organizational: Excellent time management and prioritization.
-4. Adaptability: Quick to adjust to new situations and challenges.
-5. Problem-solving: Analytical thinking and solution-oriented mindset.
-6. Learning: Rapid acquisition of new concepts and self-education.
-7. Hope this helps! >
-< I don't have an expirience >
-< Pedagogical University,
-courses: swiftbook yandex practicum >
-> English level : B!
+*QA Engineer (Junior)*
+#Divina Julia
+#Contacts
+ >+375 (29) 890-94-56
+>julia.dzivina@gmail.com 
+>Minsk, metro Chelyuskintsev Park, ready to move, ready for business trips
+
+*Specialties:*
+>Tester
+*Employment:* Full time
+
+*Schedule:* full day
+
+*Core skills*
+1.Editing
+2.API and database
+3.SQL
+4.Postman
+5.DevTools
+6.Charles
+7.Writing bug reports
+8.Test case writing
+
+*About Me*
+
+>In recent years, I have worked as a store manager where I have proven myself to be a highly skilled professional Over the past three years >I have :
+-increased store sales by 15%;
+-Increased customer loyalty;
+-Increased the number of subscribers from 3000 to 7000.
+-Increased sales on the Internet;
+-Enhanced the competence of the staff;
+>In this specialty I have no experience, but in the process of learning a lot of practice, which gives me confidence in my competence.
+
+*Portfolio*
+>Higher education
+
+2017
+>Belarusian State Pedagogical University of M. Tank, Minsk
+>Social and pedagogical technologies, psychology
+*Languages*
+Edit
+Belarusian - native
+*English - B1 - * Intermediate
+
+2021
+Yandex.practice
+Citizenship, travel time to work
+
+Citizenship: Belarus
+
+*Permit to work:* Belarus
+
+*Desired travel time to work:* does not matter
+
+
+
